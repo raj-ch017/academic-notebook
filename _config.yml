@@ -1,8 +1,12 @@
 title: Rajdeep's Coursework
 description: A notebook to keep track of all my coursework.
 theme: just-the-docs
-
-url: https://just-the-docs.github.io
+url: https://raj-ch017.github.io/academic-notebook/
 
 #aux_links:
    #Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+back_to_top: true
+back_to_top_text: "Back to top"
+
+color_scheme: "dark"
