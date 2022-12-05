@@ -1,6 +1,6 @@
 ---
 layout: default
 title: Mathematics Resources
-parent: Nathematics
+parent: Mathematics
 nav_order: 2
 ---
