@@ -10,10 +10,12 @@ permalink: /docs/mathematics
 # Mathematics
 
 ---
+
 ##### TABLE OF CONTENTS
 
 1. [Mathematics Coursework](https://raj-ch017.github.io/academic-notebook/docs/mathematics/coursework.html)
 2. [Mathematics Resources](https://raj-ch017.github.io/academic-notebook/docs/mathematics/resources.html)
+
 ---
 
 Summarising the uncanny habit of Mathematics to describe nature:
