@@ -3,9 +3,10 @@ description: A notebook to keep track of all my coursework.
 theme: just-the-docs
 url: https://raj-ch017.github.io/academic-notebook/
 
-#aux_links:
-   #Template Repository: https://github.com/just-the-docs/just-the-docs-template
-
+aux_links:
+  "Back to website":
+    - "https://raj-ch017.github.io/"
+    
 back_to_top: true
 back_to_top_text: "Back to top"
 
