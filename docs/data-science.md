@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 
+title: Data Science and Statistics
 nav_order: 5
 ---
 
