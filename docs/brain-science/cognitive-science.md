@@ -5,11 +5,10 @@ parent: Brain Sciences
 nav_order: 1
 ---
 
-<h1>
-<p align = "center">
-Project: Cognitive Science Coursework
-</p>
-</h1>
+Cognitive Science Coursework
+{: .fw-500}
+{: .fs-9}
+{: .text-center}
 
 <p align="center" width="100%">
     <img width="40%" src="https://user-images.githubusercontent.com/96816530/176765062-a3a157bd-ab05-49c6-a339-df8336e9bd60.png">
@@ -97,9 +96,9 @@ Courses | Prerequisites | Tag
 **Subjects Tier 1**
 Courses | Prerequisites
 :-- | :--
-[6.0001 - Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/pages/syllabus/) | none | 
+[6.0001 - Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/pages/syllabus/) | none  
 [6.0002 - Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/pages/syllabus/) | 6.0001
-[9.00 - Introduction to Psychology](https://ocw.mit.edu/courses/9-00sc-introduction-to-psychology-fall-2011/pages/syllabus/) | none |
-[9.01 - Neuroscience and Behaviour](https://ocw.mit.edu/courses/9-01-neuroscience-and-behavior-fall-2003/) | none |
+[9.00 - Introduction to Psychology](https://ocw.mit.edu/courses/9-00sc-introduction-to-psychology-fall-2011/pages/syllabus/) | none
+[9.01 - Neuroscience and Behaviour](https://ocw.mit.edu/courses/9-01-neuroscience-and-behavior-fall-2003/) | none
 [9.40 - Introduction to Neural Computation](https://ocw.mit.edu/courses/9-40-introduction-to-neural-computation-spring-2018/pages/syllabus/) | Physics - 
-[9.07 - Statistics for Brain and Cognitive Science](https://ocw.mit.edu/courses/9-07-statistics-for-brain-and-cognitive-science-fall-2016/pages/syllabus/) | 
+[9.07 - Statistics for Brain and Cognitive Science](https://ocw.mit.edu/courses/9-07-statistics-for-brain-and-cognitive-science-fall-2016/pages/syllabus/) | none
