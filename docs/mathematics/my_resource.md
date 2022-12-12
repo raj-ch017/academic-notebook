@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Resources
-parent: Mathematics Resources
+title: Maths from Ground Zero
+parent: Resources
 grand_parent: Mathematics
 nav_order: 1
 ---
