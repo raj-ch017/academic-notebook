@@ -1,12 +1,14 @@
 ---
 layout: default
 title: OSSU Maths
-parent: Mathematics Resources
+parent: Resources
 grand_parent: Mathematics
 nav_order: 2
 ---
 
-![Open Source Society University (OSSU)](http://i.imgur.com/kYYCXtC.png)
+<p align = "center" width="100%">
+      <img width="75%" src="http://i.imgur.com/kYYCXtC.png">
+</p>
 
 <h3 align="center">Open Source Society University</h3>
 <p align="center">
@@ -41,19 +43,24 @@ but specifically chosen to meet the following criteria.
 
 When no course meets the above criteria, the coursework is supplemented with a book.
 
-**Duration**. It is possible to finish the curriculum within about 2 years if you plan carefully and devote roughly 18-22 hours/week to your studies.
+**Duration**:
+It is possible to finish the curriculum within about 2 years if you plan carefully and devote roughly 18-22 hours/week to your studies.
 
-**Cost**. OSSU strives to identify free resources to reach your learning goal. However, some courses may charge money for assignments/tests/projects to be graded.
+**Cost**:
+OSSU strives to identify free resources to reach your learning goal. However, some courses may charge money for assignments/tests/projects to be graded.
 
 Decide how much or how little to spend based on your own time and budget;
 just remember that you can't purchase success!
 
-**Process**. Students can work through the curriculum alone or in groups, in order or out of order.
+**Process**:
+Students can work through the curriculum alone or in groups, in order or out of order.
+
 - For simplicity, we recommend working through courses in order from top to bottom, as they have already been sorted by their prerequisites.
 - Courses in Core Mathematics are the basic requirements for all OSSU Math students, and provide a foundation for deeper study. Take all of these courses.
 - Courses in Advanced Topics are electives. Take one course in each topic area. Then choose one topic you want to become an expert in and take all the courses under that heading. You can also create your own custom subject (we recommend getting validation from the community on the subject you choose).
 
-**Content policy**. If you plan on showing off some of your coursework publicly, you must share only files that you are allowed to.
+**Content policy**:
+If you plan on showing off some of your coursework publicly, you must share only files that you are allowed to.
 *Respect the code of conduct that you sign in the beginning of each course!*
 
 **[How to contribute](CONTRIBUTING.md)**
@@ -211,6 +218,7 @@ To complete your study of Advanced Topics, complete both the Breadth requirement
 - **Depth Requirement:** Select one Advanced Topic below and take 3 additional courses from that topic. 
 
 ### Differential Equations
+
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
 [Differential Equations: 2x2 Systems](https://www.edx.org/course/differential-equations-2x2-systems) | 8 weeks | 2-5 hours/week | Introduction to Differential Equations
@@ -219,43 +227,48 @@ Courses | Duration | Effort | Prerequisites
 [Transfer Functions and the Laplace Transform](https://www.edx.org/course/transfer-functions-and-the-laplace-transform) | 10 weeks | 3-6 hours/week | Introduction to Differential Equations 
 
 ### Mathematical Logic
+
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
 [Introduction to Formal Logic](https://forallx.openlogicproject.org/) | 15 weeks | 9 hours/week | -
 
 ### Geometry and Topology
+
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
 [Topology Without Tears](https://www.topologywithouttears.net) | 15 weeks | 14 hours/week | Set Theory, Mathematical Matturity in Algebra and Geometry
 [Euclidean plane and its relatives](https://arxiv.org/pdf/1302.1630v19.pdf) | 14 weeks | 4-6 hours/week | Elementary Set Theory, Calculus 1c, Linear Algebra
 [Geometry with an Introduction to Cosmic Topology](https://mphitchman.com) | 14 weeks | 14 hours/week | Multivariable Calculus
 [Differential Geometry](https://ocw.mit.edu/courses/mathematics/18-950-differential-geometry-fall-2008/) [(Supplementary Video Lectures)](https://www.youtube.com/playlist?list=PLIljB45xT85DWUiFYYGqJVtfnkUFWkKtP)  | 10 weeks | 6-8 hours/week | Multivariable Calculus, Introduction To Analysis and Linear Algebra
-
+<!-- 
 ### Probability and Statistics
+
 Courses |
 :-- |
 Combinatorics |
 Probability | 
-statistics | 
-game theory | 
-applied stats |
+Statistics | 
+Game theory | 
+ -->
 
 ### Mathematical Analysis
 
 Courses |
 :-- |
-Real analysis |
-Numerical analysis | 
-Complex analysis |
-Functional Analysis |
+[Real Analysis](https://ocw.mit.edu/courses/18-100a-real-analysis-fall-2020/) |
+[Numerical Analysis - I](https://ocw.mit.edu/courses/18-085-computational-science-and-engineering-i-fall-2008/pages/syllabus/) |
+[Numerical Analysis - II](https://ocw.mit.edu/courses/18-086-mathematical-methods-for-engineers-ii-spring-2006/pages/syllabus/) |
+[Complex Analysis](https://ocw.mit.edu/courses/18-04-complex-variables-with-applications-spring-2018/pages/syllabus/) |
+[Functional Analysis](https://ocw.mit.edu/courses/18-102-introduction-to-functional-analysis-spring-2021/) |
 
-### Abstract Algebra
+<!-- ### Abstract Algebra
+
 Courses |
 :-- |
 Abstract Algebra |
 Category Theory |
 Algebraic Geometry  |
-Topology  |
+Topology  | -->
 
 
 ## Congratulations
