@@ -7,7 +7,10 @@ has_toc: false
 permalink: /docs/mathematics
 ---
 
-# Mathematics
+Mathematics
+{: .fw-500}
+{: .fs-8}
+{: .text-center}
 
 ---
 
@@ -22,18 +25,18 @@ Summarising the uncanny habit of Mathematics to describe nature:
 
   > How can it be that mathematics, being after all a product of human thought independent of experience, is so admirably adapted to the objects of reality? - Albert Einstien
   
-***Does anybody have a clue as to why Mathematics represents nature and reality with precision?***
+  
+  
+Mathematics is the purest result of the human mind. There is something intuitive about it, so much so that it’s inherent within us. It's evident when a toddler raises two fingers when asked how many candy bars they would like. No real analysis is needed to figure out two candy bars are more than one (pun intended). 
 
-## Motivation:
- 
-The treatment of Mathematics as a subject introduced in school causes us to under celebrate it. Many people grow up to hate it, maybe because of the low grades they received or the fact that they failed to understand the concept of 'Exponentials and Logarithms' in grade 10. The misconception of Mathematics being a part of Science doesn't help the cause either.
- 
-Mathematics is the purest result of the human mind and its relation to abstraction. People from different cultures might meet and greet each other with "Hello" and "Namaste". But, both of them will understand (provided they have had the privilege of being educated) that if one of them has two pens in their pocket and the other person gives them two more pens, then the pocket will now consist of four pens.
+However, the treatment of Mathematics as a subject introduced in school causes all sorts of trouble. Many people grow up to hate it, maybe because of the low grades they received or the fact that they failed to understand the concept of 'Exponentials and Logarithms' in grade 10. The misconception that ‘Mathematics is a part of Science’ doesn't help the cause. I have been a victim of it; I grew up dreading it. Thankfully, I have had the opportunity to rediscover it, and since then, I have embarked on a journey. 
 
-Learning Mathematics is learning to speak the language of nature and understand its working, uncover hidden patterns and play around with ideas to develop an intimate relationship with nature. 
+This notebook keeps track of this journey. It consists of coursework and resources related to my attempt to formalise my study of Mathematics. The primary reason behind doing all this is to keep learning and improving my mathematical skills, which enhances my intuition and abstract thinking.
 
-This repository has been built to keep track of the coursework that I complete in Mathematics. My primary motivation is to keep learning and improving my mathematical skills, which in turn improves my intuition and ability to deal with abstraction.
+Learning Mathematics is an experience that changes an individual. You develop the patience needed to look at an idea differently; you learn to appreciate the significance of subtle corollary. It enables one to speak the language of nature, uncover hidden patterns and play around with ideas to develop an intimate understanding of nature. 
+
+
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/9Q5fSHyPKfrr2/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/9Q5fSHyPKfrr2/giphy.gif" width="500"/>
 </div>
