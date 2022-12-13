@@ -1,9 +1,9 @@
 ---
 layout: default
 title: OSSU CS
-nav_order: 1
-parent: Computer Science
-grand_parent: Resources
+nav_order: 2
+parent: Resources
+grand_parent: Computer Science
 ---
 
 <p align="center" width="100%">
