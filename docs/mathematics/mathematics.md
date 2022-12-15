@@ -24,8 +24,10 @@ Mathematics
 Summarising the uncanny habit of Mathematics to describe nature:
 {: .px-6}
 
-{: .highlight }
-How can it be that mathematics, being after all a product of human thought independent of experience, is so admirably adapted to the objects of reality? - Albert Einstien
+{: .note-title }
+> Quote
+>
+> How can it be that mathematics, being after all a product of human thought independent of experience, is so admirably adapted to the objects of reality? - Albert     Einstien
   
   
   
