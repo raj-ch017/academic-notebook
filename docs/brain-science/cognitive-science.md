@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Cognitive Science
-parent: Brain Sciences
-nav_order: 1
+grand_parent: Brain Sciences
+parent: Resources
+nav_order: 2
 ---
 
 Cognitive Science Coursework
