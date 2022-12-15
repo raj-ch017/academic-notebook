@@ -4,10 +4,9 @@ theme: just-the-docs
 url: https://raj-ch017.github.io/academic-notebook/
 
 aux_links:
-  "Back to website":
+  "Way to website":
     - "https://raj-ch017.github.io/"
     
 back_to_top: true
 back_to_top_text: "Back to top"
 
-color_scheme: dark
