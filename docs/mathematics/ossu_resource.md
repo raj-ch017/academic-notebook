@@ -240,7 +240,8 @@ Courses | Duration | Effort | Prerequisites
 [Euclidean plane and its relatives](https://arxiv.org/pdf/1302.1630v19.pdf) | 14 weeks | 4-6 hours/week | Elementary Set Theory, Calculus 1c, Linear Algebra
 [Geometry with an Introduction to Cosmic Topology](https://mphitchman.com) | 14 weeks | 14 hours/week | Multivariable Calculus
 [Differential Geometry](https://ocw.mit.edu/courses/mathematics/18-950-differential-geometry-fall-2008/) [(Supplementary Video Lectures)](https://www.youtube.com/playlist?list=PLIljB45xT85DWUiFYYGqJVtfnkUFWkKtP)  | 10 weeks | 6-8 hours/week | Multivariable Calculus, Introduction To Analysis and Linear Algebra
-<!-- 
+
+
 ### Probability and Statistics
 
 Courses |
@@ -249,7 +250,7 @@ Combinatorics |
 Probability | 
 Statistics | 
 Game theory | 
- -->
+
 
 ### Mathematical Analysis
 
@@ -261,14 +262,6 @@ Courses |
 [Complex Analysis](https://ocw.mit.edu/courses/18-04-complex-variables-with-applications-spring-2018/pages/syllabus/) |
 [Functional Analysis](https://ocw.mit.edu/courses/18-102-introduction-to-functional-analysis-spring-2021/) |
 
-<!-- ### Abstract Algebra
-
-Courses |
-:-- |
-Abstract Algebra |
-Category Theory |
-Algebraic Geometry  |
-Topology  | -->
 
 
 ## Congratulations
