@@ -24,4 +24,6 @@ I possess the most complicated, complex thing in the known universe. I know ther
 Typing this sentence feels effortless, but that's just the tip of the iceberg. The number of tasks being performed underneath is a testament to the complexity of the human brain. The nerves diligently transmit the signals to the muscles; the brain ensures that this sentence follows an order and makes sense, instead of me typing aonmfaohi naosofa. See?
 
 
- 
+ <div id="header" align="center">
+  <img src="https://media.giphy.com/media/1LKCZpq5dQKnuFe3xi/giphy.gif" width="500"/>
+</div>
