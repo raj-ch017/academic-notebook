@@ -196,14 +196,15 @@ But what is the derivative? You will learn its mathematical notation, physical m
 
 This lecture series introduces topics that prepare the learner for further lessons in Algebra. The topics include:
 
-Introduction to the Number Line
-Operations involving Integers
-Solving basic equations
-Introduction to Fractions
-Introduction to Rates and Ratios
-Operations with Polynomials
+* Introduction to the Number Line
+* Operations involving Integers
+* Solving basic equations
+* Introduction to Fractions
+* Introduction to Rates and Ratios
+* Operations with Polynomials
 
 [Lecture Playlist](https://www.youtube.com/playlist?list=PL4C9296DF81B9EF13)
+
 Supplementary Textbook: [Prealgebra](https://www.google.co.in/books/edition/Prealgebra/B2eQtAEACAAJ?hl=en) by Elayn Martin-Gay
 
 ---
@@ -215,16 +216,17 @@ Supplementary Textbook: [Prealgebra](https://www.google.co.in/books/edition/Prea
 
 This lecture series builds upon the concepts introduced in the previous series and develops methods like Factoring, Plotting, Inequalities and Exponentials.
 
-Factoring Basic Polynomials
-Rational expressions and Rational equations
-Plotting on Coordinate Plane
-Inequalities and Absolute Value Equations
-Radicals and Radical equations
-Working with Quadratic equations
-Exponential and Logarithmic equations
-Conic Sections
+* Factoring Basic Polynomials
+* Rational expressions and Rational equations
+* Plotting on Coordinate Plane
+* Inequalities and Absolute Value Equations
+* Radicals and Radical equations
+* Working with Quadratic equations
+* Exponential and Logarithmic equations
+* Conic Sections
 
 [Lecture Playlist](https://www.youtube.com/playlist?list=PLC292123722B1B450)
+
 Supplementary Textbook: [Intermediate Algebra](https://www.google.co.in/books/edition/Intermediate_Algebra/wDKvoQEACAAJ?hl=en) by Elayn Martin-Gay
 
 ---
@@ -236,13 +238,14 @@ Supplementary Textbook: [Intermediate Algebra](https://www.google.co.in/books/ed
 
 This supplementary lecture series provided by UMKC deals with topics in algebra that are need to be mastered before heading into Calculus.
 
-Functions 
-Plotting Functions on Coordinate Plane
-Finding Zeros of Polynomials
-System of Equations
-Series and Sequence
+* Functions 
+* Plotting Functions on Coordinate Plane
+* Finding Zeros of Polynomials
+* System of Equations
+* Series and Sequence
 
 [Lecture Playlist](https://www.youtube.com/playlist?list=PLDE28CF08BD313B2A)
+
 Supplementary Textbook: [College Algebra](https://books.google.co.in/books/about/College_Algebra.html?id=tIHBSAAACAAJ&source=kp_book_description&redir_esc=y) by Robert Blitzer
 
 ---
