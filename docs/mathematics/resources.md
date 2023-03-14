@@ -7,6 +7,11 @@ has_children: true
 has_toc: false
 ---
 
+Welcome to the Mathematics Learning Resources page! 
+{: .fw-400} 
+{: .fs-6} 
+{: .text-center}
+
 ---
 
 ##### TABLE OF CONTENTS
@@ -16,8 +21,6 @@ has_toc: false
 
 ---
 
-
-Welcome to the Mathematics Learning Resources page! 
 
 Here, I have compiled a list of valuable resources to help enhance the understanding of Mathematics. Whether you are a student, teacher, or someone who wants to improve your math skills, you'll find many resources to explore.
 {: .px-6}
