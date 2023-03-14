@@ -4,9 +4,10 @@ title: Resources
 nav_order: 2
 parent: Brain Sciences
 has_children: true
+has_toc: false
 ---
 
-Welcome to our Brain Science Learning Resources page!
+Welcome to our Brain Science Learning Resources page!{: .fw-500} {: .fs-6} {: .text-center}
 
 ---
 ##### TABLE OF CONTENTS
