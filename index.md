@@ -6,12 +6,13 @@ permalink: /
 ---
 
 ### Welcome to my Academic Coursework Notebook
+{: .fw-600} 
+{: .fs-9} 
+{: .text-center}
 ---
 
-Living in the 21st century as a human is different from the past centuries. We are the most advanced we have ever been. The progress has been staggering. Because of that progress, I have access to resources to learn anything.
+
+As a human living in the 21st century, I recognize the vast differences in the resources available to me compared to past centuries. Our technological advancements have been remarkable, granting us unprecedented access to knowledge and information. Now, we no longer have to rely solely on traditional institutions for learning; we can take advantage of devices and digital platforms to explore any subject of interest from the comfort of our homes. With nothing more than curiosity and a sense of adventure, we can embark on an endless journey of discovery.
 {: .px-6}
 
-The best part is you don't have to depend on institutions for the sake of learning. The devices we have created provide us with the luxury of learning from within the walls of our homes. All you need is curiosity or the spirit of adventure to get started.
-{: .px-6}
 
-In straightforward terms, this notebook is meant to keep track of this adventure. 
