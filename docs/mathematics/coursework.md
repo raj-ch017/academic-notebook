@@ -7,6 +7,7 @@ parent: Mathematics
 
 Mathematics Coursework
 {:. fs-8}
+{: .fw-500}
 {: .text-center}
 
 ---
@@ -256,3 +257,11 @@ Supplementary Textbook: [College Algebra](https://books.google.co.in/books/about
 ---
 
 1. [Algebra for Beginners](https://books.google.co.in/books/about/Algebra_for_Beginners.html?id=ZBQAAAAAYAAJ&redir_esc=y)
+
+
+## Introduction to Statistics
+
+Let's learn some Statistics. How would you like to learn Statistics?
+
+
+![certificate](https://github.com/raj-ch017/certificates/blob/main/Coursera%20CQYFE5L79A9V.pdf)

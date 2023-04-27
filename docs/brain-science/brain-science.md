@@ -8,6 +8,7 @@ has_toc: false
 
 Brain Science
 {: .fs-7}
+{: .fw-500}
 {: .text-center}
 
 ---
