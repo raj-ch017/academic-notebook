@@ -23,4 +23,11 @@ Summary
 
 This course will introduce learners to the fundamentals of neuroscience and the workings of individual neurons. Through interactive simulations, learners will build a neuron step by step and explore how neurons transmit information using electricity. In addition, learners will have the opportunity to visit a neuroscience lab at Harvard and gain practical knowledge on conducting DIY neuroscience experiments.
 
+
+Documentation
+
+<p align="center" width="100%">
+  <img width="80%" src="https://user-images.githubusercontent.com/96816530/234970031-7ef5841a-e1a1-469d-b0f1-d9a8c48dc385.png">
+</p>
+
 ---
