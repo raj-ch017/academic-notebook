@@ -38,7 +38,7 @@ Topic include:
 Documentation
 
 <p align="center" width="100%">
-  ![6.001x](/docs/computer-science/6.0001x.png)
+  <img width="80%" src="![image](https://user-images.githubusercontent.com/96816530/234967951-97cd8976-8bf8-4b65-9a8c-c117263ffcdd.png)">
 </p>
 ---
 
