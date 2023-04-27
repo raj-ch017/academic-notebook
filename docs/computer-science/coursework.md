@@ -68,6 +68,13 @@ Topic include:
 * Relational operators for evaluating relative values or set membership.
 * Boolean operators for resolving complex logical statements
 
+Documentation
+
+<p align="center" width="100%">
+  <img width="80%" src="https://user-images.githubusercontent.com/96816530/234969529-f1e9fa15-0289-42ca-897e-48547763fade.png">
+</p>
+
+
 
 ---
 
@@ -100,6 +107,13 @@ Topics include:
   * Python Programming
   * Object-Oriented Programming (OOP)
 
+Documentation
+
+
+<p align="center" width="100%">
+  <img width="80%" src="https://user-images.githubusercontent.com/96816530/234970663-1560a665-c318-4576-bf9d-de322375c2a2.png">
+</p>
+
 ---
 
 
@@ -125,6 +139,14 @@ Topics included
 * Create engaging, graphical based programs using PyGame
 * Recursion
 * Object-Oriented Programming (OOP)
+
+Documentation
+
+<p align="center" width="100%">
+  <img width="80%" src="https://user-images.githubusercontent.com/96816530/234971465-6a024606-2aed-40cb-a3f1-dbc62777a829.png">
+</p>
+
+
 
 ---
 
@@ -152,6 +174,14 @@ Topics included
 * Debugging
 * Tuple, List and Label
 
+Documentation
+
+<p align="center" width="100%">
+  <img width="80%" src="https://user-images.githubusercontent.com/96816530/234971806-5d973e17-9ee1-4965-a0d0-830b35a1f966.png">
+</p>
+
+
+
 ---
 
 Understanding and Visualizing Data with Python
@@ -173,7 +203,11 @@ Topics include
 * Create data visualizations and numerical summaries with Python
 * Identify appropriate analytic techniques for probability and non-probability samples
 
+Documentation
 
+<p align="center" width="100%">
+  <img width="80%" src="https://user-images.githubusercontent.com/96816530/234972496-e21c67fa-876a-4ed4-8d09-e37b9f5e9ba2.png">
+</p>
 
-
+---
 
