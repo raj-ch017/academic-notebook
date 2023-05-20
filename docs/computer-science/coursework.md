@@ -38,7 +38,7 @@ Topic include:
 Documentation
 
 <p align="center" width="100%">
-  <img width="80%" src="https://user-images.githubusercontent.com/96816530/234967951-97cd8976-8bf8-4b65-9a8c-c117263ffcdd.png">
+  <img width="80%" src="https://github.com/raj-ch017/academic-notebook/assets/96816530/9dc1eeec-6d4d-4985-ab97-c2b57f254d52">
 </p>
 ---
 
@@ -83,6 +83,20 @@ Programming Coursework
 {: .fs-8}
 {: .fw-500}
 {: .text-center}
+
+---
+
+
+
+---
+
+Introduction to MATLAB
+
+Documentation
+
+<p align="center" width="100%">
+  <img width="80%" scr="https://github.com/raj-ch017/academic-notebook/assets/96816530/4212e0c4-1841-499f-8609-279a5ab385b2">
+</p>
 
 ---
 
@@ -211,3 +225,19 @@ Documentation
 
 ---
 
+
+
+---
+
+Using Python for Research
+{: .fs-7}
+{: .fw-500}
+{: .text-center}
+
+Documentation
+
+<p align="center" width="100%"
+   <img width="80%" src="https://github.com/raj-ch017/academic-notebook/assets/96816530/76fc74e1-b080-4307-a406-d46e1640bde9">
+</p>
+
+---
