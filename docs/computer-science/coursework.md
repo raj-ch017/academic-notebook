@@ -95,7 +95,7 @@ Introduction to MATLAB
 Documentation
 
 <p align="center" width="100%">
-  <img width="80%" scr="https://github.com/raj-ch017/academic-notebook/assets/96816530/4aaa36c4-a526-4810-ac14-34e496d45fbd">
+  <img width="80%" src="https://github.com/raj-ch017/academic-notebook/assets/96816530/4aaa36c4-a526-4810-ac14-34e496d45fbd">
 </p>
 
 ---
@@ -237,7 +237,7 @@ Using Python for Research
 Documentation
 
 <p align="center" width="100%">
-   <img width="80%" src="https://github.com/raj-ch017/academic-notebook/assets/96816530/76fc74e1-b080-4307-a406-d46e1640bde9">
+   <img width="100%" src="https://github.com/raj-ch017/academic-notebook/assets/96816530/76fc74e1-b080-4307-a406-d46e1640bde9">
 </p>
 
 ---
