@@ -6,7 +6,7 @@ parent: Mathematics
 ---
 
 Mathematics Coursework
-{:. fs-8}
+{: .fs-8}
 {: .fw-500}
 {: .text-center}
 
@@ -180,10 +180,24 @@ But what is the derivative? You will learn its mathematical notation, physical m
 
 
 <p align="center" width="100%">
-  <img width="80%" src="https://user-images.githubusercontent.com/96816530/188303292-f7d816fd-8bb0-4dea-bc17-cba944daa673.png">
+  <img width="100%" src="https://user-images.githubusercontent.com/96816530/188303292-f7d816fd-8bb0-4dea-bc17-cba944daa673.png">
 </p>  
 
 ---
+
+
+
+---
+
+Integration
+{: .fs-6}
+{: .text-center}
+
+Documentation
+
+<p align="center" width="100%">
+  <img width="100%" src="https://github.com/raj-ch017/academic-notebook/assets/96816530/3dacb9ec-35ca-4cb4-8fa3-813d87fe24cb">
+</p>
 
 
 ### Lectures
