@@ -12,7 +12,7 @@ Brain Science Coursework
 
 ---
 
-Fundamentals of Neuroscience, Part 1: The Electrical Properties of the Neuron
+Fundamentals of Neuroscience
 {: .fs-7}
 {: .fw-500}
 {: .text-center}
@@ -27,7 +27,7 @@ This course will introduce learners to the fundamentals of neuroscience and the 
 Documentation
 
 <p align="center" width="100%">
-  <img width="80%" src="https://user-images.githubusercontent.com/96816530/234970031-7ef5841a-e1a1-469d-b0f1-d9a8c48dc385.png">
+  <img width="80%" src="https://github.com/raj-ch017/academic-notebook/assets/96816530/e3959d38-b15e-4181-95f6-998f252d908e">
 </p>
 
 ---
