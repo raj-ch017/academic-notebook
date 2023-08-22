@@ -6,8 +6,8 @@ permalink: /
 ---
 
 ### Welcome to my Academic Coursework Notebook
-{: .fw-600} 
-{: .fs-9} 
+{: .fw-500} 
+{: .fs-8} 
 {: .text-center}
 ---
 
