@@ -38,7 +38,7 @@ Topic include:
 Documentation
 
 <p align="center" width="100%">
-  <img width="100%" src="https://github.com/raj-ch017/academic-notebook/assets/96816530/9dc1eeec-6d4d-4985-ab97-c2b57f254d52">
+  <img width="100%" src="https://github.com/raj-ch017/academic-notebook/assets/96816530/5d9e8637-cb25-4286-92e7-5633207ff69e">
 </p>
 ---
 
@@ -95,7 +95,7 @@ Introduction to MATLAB
 Documentation
 
 <p align="center" width="100%">
-  <img width="80%" src="https://github.com/raj-ch017/academic-notebook/assets/96816530/4aaa36c4-a526-4810-ac14-34e496d45fbd">
+  <img width="80%" src="https://github.com/raj-ch017/academic-notebook/assets/96816530/9581eab3-0aac-407b-8fa1-52181e5072b2">
 </p>
 
 ---
@@ -125,7 +125,7 @@ Documentation
 
 
 <p align="center" width="100%">
-  <img width="80%" src="https://user-images.githubusercontent.com/96816530/234970663-1560a665-c318-4576-bf9d-de322375c2a2.png">
+  <img width="80%" src="https://github.com/raj-ch017/academic-notebook/assets/96816530/82039fa1-ddd0-4e14-8936-f5e44695e478">
 </p>
 
 ---
@@ -157,7 +157,7 @@ Topics included
 Documentation
 
 <p align="center" width="100%">
-  <img width="80%" src="https://user-images.githubusercontent.com/96816530/234971465-6a024606-2aed-40cb-a3f1-dbc62777a829.png">
+  <img width="80%" src="https://github.com/raj-ch017/academic-notebook/assets/96816530/f1375ca4-a197-4acd-be5d-e5fe5e5de45f">
 </p>
 
 
@@ -191,7 +191,7 @@ Topics included
 Documentation
 
 <p align="center" width="100%">
-  <img width="80%" src="https://user-images.githubusercontent.com/96816530/234971806-5d973e17-9ee1-4965-a0d0-830b35a1f966.png">
+  <img width="80%" src="https://github.com/raj-ch017/academic-notebook/assets/96816530/93c46493-4b65-4aac-ae3a-ac0751d29543">
 </p>
 
 
@@ -237,7 +237,7 @@ Using Python for Research
 Documentation
 
 <p align="center" width="100%">
-   <img width="100%" src="https://github.com/raj-ch017/academic-notebook/assets/96816530/76fc74e1-b080-4307-a406-d46e1640bde9">
+   <img width="100%" src="https://github.com/raj-ch017/academic-notebook/assets/96816530/07127ad5-676f-42d3-98a8-81ae7f993f70">
 </p>
 
 ---
