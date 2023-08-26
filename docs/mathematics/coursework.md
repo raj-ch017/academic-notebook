@@ -196,7 +196,7 @@ Integration
 Documentation
 
 <p align="center" width="100%">
-  <img width="100%" src="https://github.com/raj-ch017/academic-notebook/assets/96816530/3dacb9ec-35ca-4cb4-8fa3-813d87fe24cb">
+  <img width="100%" src="https://github.com/raj-ch017/academic-notebook/assets/96816530/0edd831d-2a30-49b4-ba18-42eb00843d49">
 </p>
 
 
