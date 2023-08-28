@@ -2,7 +2,7 @@
 layout: default
 title: Resources
 nav_order: 2
-parent: Brain Sciences
+parent: Brain Science
 has_children: true
 has_toc: false
 ---
