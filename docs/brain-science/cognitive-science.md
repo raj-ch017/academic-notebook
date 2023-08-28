@@ -1,14 +1,14 @@
 ---
 layout: default
 title: Cognitive Science
-grand_parent: Brain Sciences
+grand_parent: Brain Science
 parent: Resources
 nav_order: 2
 ---
 
 Cognitive Science Coursework
 {: .fw-500}
-{: .fs-9}
+{: .fs-7}
 {: .text-center}
 
 <p align="center" width="100%">
@@ -20,10 +20,18 @@ Cognitive Science Coursework
 
 [MIT Opening Learning Library](https://openlearning.mit.edu/courses-programs/open-learning-library) is home to selected educational content from MIT OpenCourseWare and MITx courses, available to anyone in the world at any time. All material is free to use. Some resources, particularly those from MIT OpenCourseWare, are free to download, remix, and reuse for non-commercial purposes.
 
-# Overview
+Overview
+{: .fw-400}
+{: .fs-6}
+{: .text-center}
+
 This repository has been created to keep track of coursework that follows the undergraduate curriculum of MIT, with additional online courses from platforms like Coursera and Edx.
 
-# Summary 
+Summary 
+{: .fw-400}
+{: .fs-6}
+{: .text-center}
+
 The objective is to have a formal introduction to the concepts that belong to the field of Brain Science. The structure upon which the coursework will be built is meant to be equivalent to an undergraduate education. 
 
 The project will bring together two of my main interests:
@@ -34,36 +42,38 @@ The project will bring together two of my main interests:
 
 However, I would like to have an emphasis that slightly leans toward [Brain and Cognitive Sciences](http://catalog.mit.edu/degree-charts/brain-cognitive-sciences-course-9/). 
 
-# Curriculum
+Curriculum
+{: .fw-400}
+{: .fs-6}
+{: .text-center}
+
 This will serve as a blueprint for taking courses according to the degree requirements. 
 
   
-  ## 1. Brain and Cognitive Sciences
-  
- To be recommended for the degree of Bachelor of Science, students must have satisfactorily completed a program of study which includes the General Institute Requirements (GIRs) and the departmental program of the Course in which the degree is to be awarded.[^req]
+To be recommended for the degree of Bachelor of Science, students must have satisfactorily completed a program of study which includes the General Institute Requirements (GIRs) and the departmental program of the Course in which the degree is to be awarded.[^req]
  
 <p align="center" width="100%">
-  <img width="50%" src="https://user-images.githubusercontent.com/96816530/183283842-04736c5a-a08d-4bbb-85a4-52c47eb0879a.png">
+  <img width="100%" src="https://user-images.githubusercontent.com/96816530/183283842-04736c5a-a08d-4bbb-85a4-52c47eb0879a.png">
 </p>  
 
   
   **Department Subject Distribution**
 
 <p align="center" width="100%">
-  <img width="50%" src="https://user-images.githubusercontent.com/96816530/176788696-19d0d348-28eb-4e2f-ab30-d4fca2868b36.png">
+  <img width="100%" src="https://user-images.githubusercontent.com/96816530/176788696-19d0d348-28eb-4e2f-ab30-d4fca2868b36.png">
 </p>  
 
   **Electives**
   
 <p align="center" width="100%">
-  <img width="50%" src="https://user-images.githubusercontent.com/96816530/182564951-4cb1d7bd-ef39-497e-81c7-a0e030c35b00.png">
+  <img width="100%" src="https://user-images.githubusercontent.com/96816530/182564951-4cb1d7bd-ef39-497e-81c7-a0e030c35b00.png">
 </p>  
 
   * The courses that have been highlighted in yellow represent the ones that will be completed as the four course requirement for electives in accordance with the curriculum requirement.
   * The courses that have been highlighted in orange represent the ones that will be completed irrespective of curriculum requirements.
 
 <p align="center" width="100%">
-  <img width="60%" src="https://user-images.githubusercontent.com/96816530/182566914-7c67fb66-5464-4a4a-a5b4-8b5908fb22fa.png">
+  <img width="100%" src="https://user-images.githubusercontent.com/96816530/182566914-7c67fb66-5464-4a4a-a5b4-8b5908fb22fa.png">
 </p>  
 
 
@@ -71,8 +81,11 @@ This will serve as a blueprint for taking courses according to the degree requir
   
   
 
+Resources
+{: .fw-400}
+{: .fs-6}
+{: .text-center}
 
-# Resources
 The resources are divided into two categories:
 
 - MIT OpenCourseWare - Lectures provided in [OCW](https://ocw.mit.edu/)
@@ -81,7 +94,10 @@ The resources are divided into two categories:
 
 
 
-**GIR course resources**
+GIR course resources
+{: .fw-400}
+{: .fs-6}
+{: .text-center}
 
 Courses | Prerequisites | Tag
 :-- | :-- | :-- 
@@ -94,7 +110,10 @@ Courses | Prerequisites | Tag
 [7.00x - Introductory Biology](https://www.edx.org/course/introduction-to-biology-the-secret-of-life-3?index=product&queryID=a946de6156696ab18c432862ec0fa2a8&position=1) | None | Biology
 
 
-**Subjects Tier 1**
+Subjects Tier 1
+{: .fw-400}
+{: .fs-6}
+{: .text-center}
 
 Courses | Prerequisites
 :-- | :--
