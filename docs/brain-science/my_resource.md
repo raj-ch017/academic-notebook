@@ -7,10 +7,17 @@ grand_parent: Brain Sciences
 ---
 
 Resources
-{: .fs-5}
+{: .fs-7}
+{: .fw-500}
+{: .text-center}
+---
+
+
+Courses
+{: .fs-6}
+{: .fw-400}
 {: .text-center}
 
-### Courses
 
 Introductory Courses
 {: .text-center}
@@ -39,7 +46,11 @@ Advanced Courses
 | 4 | Simulation Neuroscience | [Edx](https://www.edx.org/course/simulation-neuroscience) |
 | 5 | Neuronal Dynamics of Cognition | [Edx](https://www.edx.org/course/computational-neuroscience-neuronal-dynamics-of-co) |
 
-### Lectures
+Lectures
+{: .fs-6}
+{: .fw-400}
+{: .text-center}
+
 
 This section contains video materials related to the Brain and Neuroscience.
 
@@ -51,7 +62,11 @@ This section contains video materials related to the Brain and Neuroscience.
 | 4 | [Neuroscience - Online](https://www.youtube.com/playlist?list=PLeRCSVJpV37Iqv6w0p8hiuCYTBLutCqId) |
 | 5 | [Collections of Neuroscience Topics](https://www.youtube.com/watch?v=IcX5yyg-PB4&list=PL4C48902B3A4ED0F4&ab_channel=iBiology) |
 
-### Books
+Books
+{: .fs-6}
+{: .fw-400}
+{: .text-center}
+
 
 |              | Title             | Author | Link |
 |:-------------|:------------------|:------|:------|
