@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Brain Sciences
+title: Brain Science
 has_children: true
 nav_order: 4
 has_toc: false
@@ -20,11 +20,16 @@ Brain Science
 
 ---
 
-I possess the most complicated, complex thing in the known universe. I know there is still the possibility of an alien species laughing at the statement, but we shall cross that bridge later.
+{: .highlight-title }
+> Quote
+>
+> Any man could, if he were so inclined, be the sculptor of his own brain, and that even the least gifted may, like the poorest land that has been well cultivated and fertilized, produce an abundant harvest.” - Santiago Ramón y Cajal
 
-Typing this sentence feels effortless, but that's just the tip of the iceberg. The number of tasks being performed underneath is a testament to the complexity of the human brain. The nerves diligently transmit the signals to the muscles; the brain ensures that this sentence follows an order and makes sense, instead of me typing aonmfaohi naosofa. See?
+As I type these words, I am reminded of the incredible complexity of the human brain. Though the act of typing may seem simple, there is so much more happening beneath the surface. Nerves send signals to muscles, while the brain works quietly in the background to ensure that my thoughts are translated into coherent words on the screen. It's truly amazing how our brains are able to perform such intricate tasks effortlessly. It also ensures that I follow the constructs of language instead of typing gibberish.
+{: .px-6}
 
 
  <div id="header" align="center">
   <img src="https://media.giphy.com/media/1LKCZpq5dQKnuFe3xi/giphy.gif" width="500"/>
 </div>
+
