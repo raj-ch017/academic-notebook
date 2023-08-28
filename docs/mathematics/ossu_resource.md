@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OSSU Maths
+title: Resource - OSSU Maths
 parent: Mathematics
 nav_order: 2
 ---
