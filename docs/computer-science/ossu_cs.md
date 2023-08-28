@@ -1,9 +1,8 @@
 ---
 layout: default
-title: OSSU CS
+title: Resource - OSSU CS
 nav_order: 2
-parent: Resources
-grand_parent: Computer Science
+parent: Computer Science
 ---
 
 <p align="center" width="100%">
@@ -23,14 +22,20 @@ grand_parent: Computer Science
   </a>
 </p>
 
-# Contents
+Contents
+{: .fs-7}
+{: .fw-400}
+{: .text-center}
 
 - [Summary](#summary)
 - [Community](#community)
 - [Curriculum](#curriculum)
 - [Code of conduct](#code-of-conduct)
 
-# Summary
+Summary
+{: .fs-7}
+{: .fw-400}
+{: .text-center}
 
 The OSSU curriculum is a **complete education in computer science** using online materials.
 It's not merely for career training or professional development.
@@ -85,7 +90,10 @@ Students can work through the curriculum alone or in groups, in order or out of 
 
 **[Getting help](HELP.md)** (Details about our FAQ and chatroom)
 
-# Community
+Community
+{: .fs-7}
+{: .fw-400}
+{: .text-center}
 
 - We have a discord server! [![Discord](https://img.shields.io/discord/744385009028431943.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/wuytwK5s9h) This should be your first stop to talk with other OSSU students. Why don't you introduce yourself right now? [Join the OSSU Discord](https://discord.gg/wuytwK5s9h)
 - You can also interact through GitHub issues. If there is a problem with a course, or a change needs to be made to the curriculum, this is the place to start the conversation. Read more [here](CONTRIBUTING.md).
@@ -93,7 +101,10 @@ Students can work through the curriculum alone or in groups, in order or out of 
 - Add **Open Source Society University** to your [Linkedin](https://www.linkedin.com/school/11272443/) profile!
 - Note: There is an unmaintained and deprecated firebase app that you might find when searching OSSU. You can safely ignore it. Read more in the [FAQ](./FAQ.md#why-is-the-firebase-ossu-app-different-or-broken).
 
-# Curriculum
+Curriculum
+{: .fs-7}
+{: .fw-400}
+{: .text-center}
 
 **Curriculum version**: `8.0.0` (see [CHANGELOG](CHANGELOG.md))
 
@@ -127,7 +138,10 @@ Students can work through the curriculum alone or in groups, in order or out of 
 and is knowledgeable enough now to decide which electives to take.
 - Note that [Advanced systems](#advanced-systems) assumes the student has taken a basic physics course (e.g. AP Physics in high school).
 
-## Intro CS
+Intro CS
+{: .fs-7}
+{: .fw-400}
+{: .text-center}
 
 ### Introduction to Programming
 
@@ -155,7 +169,10 @@ Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
 [Introduction to Computer Science and Programming using Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) ([alt](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)) | 9 weeks | 15 hours/week | [high school algebra](https://www.khanacademy.org/math/algebra-home) | [chat](https://discord.gg/jvchSm9)
 
-## Core CS
+Core CS
+{: .fs-7}
+{: .fw-400}
+{: .text-center}
 
 All coursework under Core CS is **required**, unless otherwise indicated.
 
@@ -330,7 +347,10 @@ Courses | Duration | Effort | Prerequisites | Discussion
 [Introduction to  Intellectual Property](https://www.coursera.org/learn/introduction-intellectual-property)| 4 weeks | 2 hours/week | none | [chat](https://discord.gg/YbuERswpAK)
 [Data Privacy Fundamentals](https://www.coursera.org/learn/northeastern-data-privacy)| 3 weeks | 3 hours/week | none | [chat](https://discord.gg/64J34ajNBd)
 
-## Advanced CS
+Advanced CS
+{: .fs-7}
+{: .fw-400}
+{: .text-center}
 
 After completing **every required course** in Core CS, students should choose a subset of courses from Advanced CS based on interest.
 Not every course from a subcategory needs to be taken.
@@ -427,7 +447,10 @@ Courses | Duration | Effort | Prerequisites | Discussion
 [Introduction to Formal Logic](https://forallx.openlogicproject.org/) | 10 weeks | 4-8 hours/week | [set theory](https://www.youtube.com/playlist?list=PL5KkMZvBpo5AH_5GpxMiryJT6Dkj32H6N) | [chat](https://discord.gg/MbM2Gg5)
 [Probability](https://projects.iq.harvard.edu/stat110/home) | 24 weeks | 12 hours/week | [Differentiation and Integration](https://www.edx.org/course/calculus-1b-integration) | [chat](https://discord.gg/UVjs9BU)
 
-## Final project
+Final project
+{: .fs-7}
+{: .fw-400}
+{: .text-center}
 
 OSS University is project-focused.
 The assignments and exams for each course are to prepare you to use your knowledge to solve real-world problems.
@@ -503,10 +526,11 @@ What is next for you? The possibilities are boundless and overlapping:
   <img width="75%" src="https://i.imgur.com/REQK0VU.jpg">
 </p>  
 
-# Code of conduct
-[OSSU's code of conduct](https://github.com/ossu/code-of-conduct).
 
-## How to show your progress
+How to show your progress
+{: .fs-7}
+{: .fw-400}
+{: .text-center}
 
 1. Create an account in [Trello](https://trello.com/).
 1. Copy [this](https://trello.com/b/IScNSzsI/ossu-compsci) board to your personal account.
