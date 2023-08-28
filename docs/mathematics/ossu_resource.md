@@ -1,8 +1,7 @@
 ---
 layout: default
 title: OSSU Maths
-parent: Resources
-grand_parent: Mathematics
+parent: Mathematics
 nav_order: 2
 ---
 
@@ -15,7 +14,10 @@ nav_order: 2
   Path to a free self-taught education in Math!
 </p>
 
-# Contents
+Contents
+{: .fs-6}
+{: .fw-400}
+{: .text-center}
 
 - [Summary](#summary)
 - [Community](#community)
@@ -23,7 +25,10 @@ nav_order: 2
 - [Curriculum](#curriculum)
 - [License](#license)
 
-# Summary
+Summary
+{: .fs-6}
+{: .fw-400}
+{: .text-center}
 
 The OSSU curriculum is a **complete education in mathematics** using online materials.
 It's for those who want a proper grounding in concepts fundamental to all math disciplines,
@@ -67,22 +72,30 @@ If you plan on showing off some of your coursework publicly, you must share only
 
 **[Getting help](HELP.md)** (Details about our FAQ and chatroom)
 
-# Community
+Community
+{: .fs-6}
+{: .fw-400}
+{: .text-center}
 
 - We have a Discord server! This should be your first stop to talk with other OSSU students. Why don't you introduce yourself right now? [Join the OSSU Discord](https://discord.gg/5pUhfpX)
 - You can also interact through [GitHub issues](https://github.com/ossu/math/issues). If there is a problem with a course, or a change needs to be made to the curriculum, this is the place to start the conversation. Read more [here](CONTRIBUTING.md).
 - Subscribe to our [newsletter](https://tinyletter.com/OpenSourceSocietyUniversity).
 - Add **Open Source Society University** to your [Linkedin](https://www.linkedin.com/school/11272443/) profile!
 
-# Code of conduct
-[OSSU's code of conduct](https://github.com/ossu/code-of-conduct).
 
-# Curriculum
+Curriculum
+{: .fs-6}
+{: .fw-400}
+{: .text-center}
+
 The curriculum is separated into two parts:
 - [Core Mathematics](#core-mathematics)
 - [Advanced Topics](#advanced-topics)
 
-## Core Mathematics
+Core Mathematics
+{: .fs-6}
+{: .fw-400}
+{: .text-center}
 
 All OSSU Math students need to take all of these courses. Subjects include:
 
@@ -201,7 +214,10 @@ Courses | Duration | Effort | Prerequisites
 [Introduction to Rings and Fields](https://nptel.ac.in/courses/111106131) | 8 weeks | 8-10 hours/week | Introduction to Abstract Group Theory
 
 
-## Advanced Topics
+Advanced Topics
+{: .fs-6}
+{: .fw-400}
+{: .text-center}
 
 Once you've completed all courses in Core Mathematics, you are free to take elective courses in Advanced Topics, which include:
 
@@ -264,7 +280,10 @@ Courses |
 
 
 
-## Congratulations
+Congratulations
+{: .fs-6}
+{: .fw-400}
+{: .text-center}
 
 After completing the requirements of the curriculum above, you will have completed the equivalent of a full bachelor's degree in Mathematics. Congratulations!
 
@@ -274,7 +293,10 @@ What is next for you? The possibilities are boundless and overlapping:
 - Join a local math club (e.g. via [meetup.com](https://www.meetup.com/)).
 - Pay attention to emerging ideas in mathematics by subscribing to a math journal or joining a professional math organization.
 
-## How to show your progress
+How to show your progress
+{: .fs-6}
+{: .fw-400}
+{: .text-center}
 
 1. Create an account in [Trello](https://trello.com/).
 1. Copy [this board](https://trello.com/b/zIlcyFSH/ossu-math) to your personal account.
